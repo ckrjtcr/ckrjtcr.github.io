@@ -6,7 +6,7 @@
   <link href="https://www.ckrjtcr.online/atom.xml" rel="self"/>
   
   <link href="https://www.ckrjtcr.online/"/>
-  <updated>2023-11-18T08:01:03.809Z</updated>
+  <updated>2023-11-25T08:26:07.975Z</updated>
   <id>https://www.ckrjtcr.online/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://www.ckrjtcr.online/undefined/5c2fafc7.html"/>
+    <id>https://www.ckrjtcr.online/undefined/5c2fafc7.html</id>
+    <published>2023-11-24T16:00:00.000Z</published>
+    <updated>2023-11-25T08:26:07.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>我的第一篇文章</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我的第一篇文章&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
