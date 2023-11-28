@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ckrjtcr.online/categories/index.html</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ckrjtcr.online/browsing/index.html</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.ckrjtcr.online/musical/index.html</loc>
     
     <lastmod>2023-11-28</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://www.ckrjtcr.online/undefined/5c2fafc7.html</loc>
-    
-    <lastmod>2023-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ckrjtcr.online/Categories/index.html</loc>
     
     <lastmod>2023-11-25</lastmod>
     
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://www.ckrjtcr.online/movies/index.html</loc>
-    
-    <lastmod>2023-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ckrjtcr.online/Browsing/index.html</loc>
     
     <lastmod>2023-11-25</lastmod>
     
