@@ -962,6 +962,12 @@ h6::before {
   background-size: cover;
 }
 
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
+
 /* 右键菜单 */
 #rightMenu {
   display: none;
@@ -1036,7 +1042,7 @@ h6::before {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--theme-color);
+  background-color: #39c5bb;
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
@@ -1056,6 +1062,6 @@ h6::before {
 
 ::-moz-selection {
   color: #fff;
-  background-color: var(--theme-color);
+  background-color: #ed709b;
 }
 
